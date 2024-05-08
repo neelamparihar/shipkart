@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+    
 }
 
 /* font-family: 'Poppins', sans-serif; */
@@ -18,6 +19,7 @@
   box-shadow: 0 8px 6px -6px gray;
   --webkit-box-shadow: 0 8px 6px -6px gray;
   border-bottom: solid gray !important;
+  background-color: beige;
 }
 
 .nav-link {
